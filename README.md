@@ -1,5 +1,6 @@
 # TumorAi
-Early tumor detection is the key to surviving cancer and thriving after
+**Early tumor detection is the key to surviving cancer and thriving after** <br>
+Submission for FHS 3rd Annual Hackathon.
 
 This project was initiated because of the significant importance of brain cancer as a pressing issue. Brain cancer, including gliomas, meningiomas, and pituitary tumors, affects countless individuals and their families around the world. It is a devastating disease that can have profound effects on physical, emotional, and cognitive well-being. Understanding the causes, effects, and available treatments for these brain tumors is crucial for raising awareness, promoting early detection, and improving patient outcomes.
 
