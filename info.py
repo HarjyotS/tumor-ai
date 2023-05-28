@@ -5,7 +5,7 @@ import numpy as np
 import plotly.express as px
 import math
 from streamlit_extras.switch_page_button import switch_page
-
+import time
 st.set_page_config(page_title="TumorAi")
 st.markdown(
     """
